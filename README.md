@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-:desktop_computer: : Web Developer
-
-:bulb: : Languages : PHP, JavaScript\TypeScript
+- :desktop_computer: : Web Developer ;
+- :bulb: : Languages : PHP, JavaScript\TypeScript ;
+- :atom: : Frameworks : Laravel, React ;
+- 
 <!--
 **DavidArabuli/DavidArabuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
